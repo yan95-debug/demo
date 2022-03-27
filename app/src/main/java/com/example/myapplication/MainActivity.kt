@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
             Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                     .setAction("Action", null).show()
         }
-        Log.d("yannnn,","texttxx——master")
+        Log.d("yannnn,","texttxx——develop")
         Log.d("yannnn,","texttxx——develop")
         Log.d("yannnn,","texttxx1111")
     }
