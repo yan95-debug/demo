@@ -34,6 +34,7 @@ class MainActivity : AppCompatActivity() {
                     .setAction("Action", null).show()
         }
         Log.d("yannnn,","texttxx")
+        Log.d("yannnn,","texttxx1111")
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
